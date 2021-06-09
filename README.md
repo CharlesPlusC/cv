@@ -3,16 +3,16 @@
 Contact: [Email](mailto:hello@workwithcarolyn.com) / [Linekdin](https://www.linkedin.com/in/charles-constant-63364966/)
 
 ## Education
- ***MSc. Envrionmental Data Science and Machine Learning || Imperial College London*** Sep 2021 - May 2022
+ ***MSc. Envrionmental Data Science and Machine Learning*** || **Imperial College London** Sep 2021 - May 2022
  
- ***BEng. Civil Engineering || University College London*** Sep 2018 - May 2021
+ ***BEng. Civil Engineering*** || **University College London** Sep 2018 - May 2021
 - [**Dissertation**](https://github.com/CharlesPlusC/cv/blob/gh-pages/Improving%20Construction%20Site%20Inductions%20through%20the%20use%20of%20a%20Facial%20Emotion%20Recognition%2C%20a%20Study%20in%20Engagement_Charles%20Constant%20and%20Elizabeth%20Bates%20(1).pdf): Using convolutional neural nets to monitor health and safety inductions on site (awarded departmental scholarship award).
 - **Activities**: 
   - Undergraduate teaching assistant (marking)
   - Set up an online portfolio and database for 1st year students
   - Design Engineer @ [Project Impactive](https://www.projectimpactive.co.uk/)
 
- ***BSc(Hons.) Physical Geography || University of Reading*** Sep 2015 - May 2018
+ ***BSc(Hons.) Physical Geography*** || **University of Reading** Sep 2015 - May 2018
 - **Dissertation**: Quantifying the effect of green environments on stress in humans using remote sensing.
 
 ## Technical Experience

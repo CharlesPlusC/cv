@@ -4,9 +4,9 @@ Contact: [Email](mailto:hello@workwithcarolyn.com) / [Linekdin](https://www.link
 
 ## Education
  ***BEng. Civil Engineering, University College London*** _Sep 2018 - May 2021_
-- **Dissertation**: Using convolutional neural nets to monitor health and safety inductions on site (awarded departmental scholarship award).
+- [**Dissertation**](https://github.com/CharlesPlusC/cv/blob/gh-pages/Improving%20Construction%20Site%20Inductions%20through%20the%20use%20of%20a%20Facial%20Emotion%20Recognition%2C%20a%20Study%20in%20Engagement_Charles%20Constant%20and%20Elizabeth%20Bates%20(1).pdf): Using convolutional neural nets to monitor health and safety inductions on site (awarded departmental scholarship award).
 - **Activities**: 
-  - Founded and lead the UCL Satellite Design Competiton team
+  - Team lead @ [UCL Satellite Design Competiton team](https://www.linkedin.com/company/ucl-vestigo-satellite-design-team)
   - Undergraduate teaching assistant (marking)
   - Set up an online portfolio and database for 1st year students
 

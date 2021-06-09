@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+# Charles Constant
 
-You can use the [editor on GitHub](https://github.com/CharlesPlusC/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Contact: [Email](mailto:hello@workwithcarolyn.com) / [Linekdin](https://www.linkedin.com/in/charles-constant-63364966/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+ ***BEng. Civil Engineering, University College London*** _Sep 2018 - May 2021_
+- **Dissertation**: Using convolutional neural nets to monitor health and safety inductions on site (awarded departmental scholarship award).
+- **Activities**: 
+  - Founded and lead the UCL Satellite Design Competiton team
+  - Undergraduate teaching assistant (marking)
+  - Set up an online portfolio and database for 1st year students
 
-### Markdown
+ ***BSc(Hons.) Physical Geography, University of Reading*** _Sep 2015 - May 2018_
+- **Dissertation**: Quantifying the effect of green environments on stress in humans using remote sensing.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

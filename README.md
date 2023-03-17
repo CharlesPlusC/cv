@@ -3,7 +3,11 @@
 Contact: [Email](mailto:hello@workwithcarolyn.com) / [Linekdin](https://www.linkedin.com/in/charles-constant-63364966/)
 
 ## Education
- ***MSc. Envrionmental Data Science and Machine Learning*** || **Imperial College London** Sep 2021 - Sep 2022
+***PhD. Space Flight Dyanmics and Geodesy*** || **University College London** Sep 2022 - _Ongoing_
+- **Research areas**: High fidelity solar radiation pressure and aerodynamic drag modelling for spacecraft.
+
+***MSc(Hons.). Envrionmental Data Science and Machine Learning*** || **Imperial College London** Sep 2021 - Sep 2022
+- **Dissertation**: High fidelity aerodynamic drag modelling for satellite mega constellations.
  
  ***BEng(Dist). Civil Engineering*** || **University College London** Sep 2018 - May 2021
 - [**Dissertation**](https://github.com/CharlesPlusC/cv/blob/gh-pages/Improving%20Construction%20Site%20Inductions%20through%20the%20use%20of%20a%20Facial%20Emotion%20Recognition%2C%20a%20Study%20in%20Engagement_Charles%20Constant%20and%20Elizabeth%20Bates%20(1).pdf): Using convolutional neural nets to monitor health and safety inductions on site (awarded departmental scholarship award).

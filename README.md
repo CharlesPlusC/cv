@@ -1,6 +1,6 @@
 # Charles Constant
 
-Contact: [Email](mailto:hello@workwithcarolyn.com) / [Linekdin](https://www.linkedin.com/in/charles-constant-63364966/)
+Contact: [Email](mailto:zcesccc@ucl.ac.uk) / [Linekdin](https://www.linkedin.com/in/charles-constant-63364966/)
 
 ## Education
 ***PhD. Space Flight Dyanmics and Geodesy*** || **University College London** Sep 2022 - _Ongoing_
@@ -42,8 +42,8 @@ Contact: [Email](mailto:hello@workwithcarolyn.com) / [Linekdin](https://www.link
 ## Skills
 
 ##### _Software_: 
+- Data Science/Machine Learning: Python (Keras, Scickit-learn, TensorFlow, SciPy, NumPy, Matplotlib), C++, C, Matlab
 - Engineering/Earth Sciences: Revit, ArcGIS, ERDAS, AutoCAD, Fusion360, ANSYS
-- Data Science/Machine Learning: Python (Keras, Scickit-learn, TensorFlow, SciPy, NumPy, Matplotlib), C programming Language
 
 ##### _Languages_: 
 - French/English (Native)
